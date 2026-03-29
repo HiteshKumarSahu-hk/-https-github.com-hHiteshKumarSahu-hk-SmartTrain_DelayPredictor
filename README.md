@@ -1,4 +1,13 @@
 Train Delay Predictor (Using Python & scikit-learn)
+Digital Literacy Portfolio
+CSE0001 — VIT Bhopal University  Vidyarthi’s E-Learning Platform
+
+Name - Hitesh Kumar Sahu 
+Registration No. -25BCE10907 
+Branch - CSE(CORE)
+Year - 2025-26 B.Tech 
+Course - CSA2001 — Fundamentals in AI-ML  
+
 
 This is a Python project where I predict whether a train will be delayed by more than 60 minutes using Machine Learning. The script trains a Logistic Regression model on 2878 real-world journey records and achieves ~75.95% accuracy. After training, an interactive CLI lets the user enter journey details and get an instant prediction. I made this project to understand how machine learning works in Python.
 
